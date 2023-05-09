@@ -1,6 +1,7 @@
-# Phase 2 Project Description
+# Analyzing Movie Data
+## William Bennett, Alex Karadjov
 
-You've made it through the second phase of this course, and now you will put your new skills to use with a large end-of-Phase project!
+# The Business Problem
 
 In this project description, we will cover:
 
