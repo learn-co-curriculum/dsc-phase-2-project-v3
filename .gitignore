@@ -1,5 +1,6 @@
 zippedData
-data/im.db
+Data/im.db
 .~lock.*
 *.xlsx
 *.csv
+Data/
