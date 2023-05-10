@@ -1,7 +1,7 @@
 # Analyzing Movie Data
-## William Bennett, Alex Karadjov
+#### William Bennett, Alex Karadjov
 
-# The Business Problem
+### The Business Problem
 
 In this project description, we will cover:
 
