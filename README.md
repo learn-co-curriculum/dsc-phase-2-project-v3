@@ -57,5 +57,5 @@ For more information, see The Numbers's website [here.](https://www.the-numbers.
 
 ## References
 
-Above image
+Meme at top of readme.
 https://www.reddit.com/r/RedLetterMedia/comments/7szzmt/mikes_view_on_movies_from_half_in_the_bag/
