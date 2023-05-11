@@ -1,6 +1,9 @@
 ### Link to the Presentation:
 [Google Slides](https://docs.google.com/presentation/d/1MLvGj73hgIZRSUeMiUxudbkVynZ4hwIq6aFEZ_RNPkU/edit?usp=sharing)
 
+### Final EDA Notebook
+[Notebook](https://github.com/QiCai1995/dsc-phase-2-project-v3/blob/main/EDA_Final.ipynb)
+
 # Quantitative Analysis of Box Office Performance by Film Genre
 
 ![alt text](https://i.redd.it/9n27tczziac01.png)
