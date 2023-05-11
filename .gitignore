@@ -5,6 +5,7 @@ Data/im.db
 *.xlsx
 *.csv
 Data/
+deleted
 
 # The following is copied from https://github.com/github/gitignore/blob/main/Python.gitignore
 # Byte-compiled / optimized / DLL files
