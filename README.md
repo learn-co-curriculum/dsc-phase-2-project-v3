@@ -31,6 +31,8 @@ In addition we analyzed directors and give several recommendations.
 
 ### Description of data
 
+The data can be found in [this repository](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3)
+
 ## Three visualisations (the same visualizations presented in the slides and notebook)
 
 ## Conclusion
