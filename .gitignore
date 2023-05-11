@@ -6,6 +6,8 @@ Data/im.db
 *.csv
 Data/
 deleted
+.ipynb_checkpoints/
+
 
 # The following is copied from https://github.com/github/gitignore/blob/main/Python.gitignore
 # Byte-compiled / optimized / DLL files
