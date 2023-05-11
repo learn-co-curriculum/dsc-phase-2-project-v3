@@ -1,6 +1,9 @@
 ### Link to the Presentation:
 [Google Slides](https://docs.google.com/presentation/d/1MLvGj73hgIZRSUeMiUxudbkVynZ4hwIq6aFEZ_RNPkU/edit?usp=sharing)
 
+### Linked To Shared Google Document
+[Google Document](https://docs.google.com/document/d/1sQq8MkEcGs7C_QXXiYMlZyQeC_AAdybVG2yTf-Qp6IA/edit?usp=sharing)
+
 ### Final EDA Notebook
 [Notebook](https://github.com/QiCai1995/dsc-phase-2-project-v3/blob/main/EDA_Final.ipynb)
 
@@ -36,7 +39,15 @@ In addition we analyzed directors and give several recommendations.
 
 The data can be found in [this repository](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3)
 
+The primary data used was from the im.db database. The following image below showes the ERD (entity-relationship diagram) of the im.db database.
+
 ![ERD_image](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v3/main/movie_data_erd.jpeg)
+
+Fore more information on im.db, see their website [here.](https://www.imdb.com/)
+
+In addition we used a database from The Numbers which contained movie budgets.
+
+For more information, see The Numbers's website [here.](https://www.the-numbers.com/)
 
 ## Three visualisations (the same visualizations presented in the slides and notebook)
 
