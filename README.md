@@ -1,5 +1,5 @@
 ### Link to the Presentation:
-[Google Slides](https://docs.google.com/presentation/d/1enJwfd8tEOVktCor2oLFIEsfJo3zUZKYbw-Betb_ivA/edit?usp=sharing)
+[Google Slides](https://docs.google.com/presentation/d/1MLvGj73hgIZRSUeMiUxudbkVynZ4hwIq6aFEZ_RNPkU/edit?usp=sharing)
 
 # Quantitative Analysis of Box Office Performance by Film Genre
 
