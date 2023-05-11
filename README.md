@@ -36,6 +36,8 @@ In addition we analyzed directors and give several recommendations.
 
 The data can be found in [this repository](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3)
 
+![ERD_image](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-2-project-v3/main/movie_data_erd.jpeg)
+
 ## Three visualisations (the same visualizations presented in the slides and notebook)
 
 ## Conclusion
