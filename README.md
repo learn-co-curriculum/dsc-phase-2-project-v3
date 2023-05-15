@@ -1,5 +1,5 @@
 # Movie Analysis
-![alt text](http://url/to/img.png)
+![alt text](images/movie-producer-1000x600.jpg)
 #### Students; William Bennett, Alex Karadjov
 #### Teacher: David Elliot
 #### Project Due Date: May 12th
@@ -70,13 +70,13 @@ Our main focuses while cleaning will be;
 
 ### Visuals
 #### Movie Length Revenues:
-![alt text](http://url/to/img.png)
+![alt text](images/runtime_revenue.png)
 
-#### Domestic Vs Foriegn Gross for Different Film Lengths:
-![alt text](http://url/to/img.png)
+#### Domestic Vs. Foriegn Gross for Different Film Lengths:
+![alt text](images/foreign_vs_domestic_gross.png)
 
 #### Gross Revenue by Genre 
-![image](https://github.com/willmbennett/movie-analysis/assets/125604164/384d96b9-ff36-4350-b9db-0f47bd8a9bbb)
+![alt text](images/genre_revenue.png)
 
 ### Business Conclusions
 
