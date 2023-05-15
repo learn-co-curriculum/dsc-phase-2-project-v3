@@ -36,40 +36,71 @@ In the folder `zippedData` are movie datasets from:
 * [The Numbers](https://www.the-numbers.com/)
 
 
-The presentation describes the project ***goals, data, methods, and results***. It must include at least ***three visualizations*** which correspond to ***three business recommendations***.
+### Data Cleaning
+Our main focuses while cleaning will be;
+
+##### Gross based;
+- Remove non US dollar value column
+- Change Null Values to -99999 to create visible outlier
 
 
+##### Avgerage Rating based;
+- Remove rows from the column avgeragerating if the column numvotes has a row with less than 30 votes
+- Drop null values for both columns
 
-1. Beginning
-    * Overview
-    * Business Understanding
-2. Middle
-    * Data Understanding
-    * Data Analysis
-3. End
-    * Recommendations
-    * Next Steps
-    * Thank You
+##### Genre based;
+- Seperate multiple genre movies
+- Drop null values
 
-The graded elements for the Jupyter Notebook are:
+##### Run Time Minutes based;
+- Handle outliers with long runtimes 
+- Drop null values
 
-* Business Understanding
-* Data Understanding
-* Data Preparation
-* Data Analysis
-* Visualization
-* Code Quality
+##### Null Values based;
+- Drop and replace values that mean nothing based on significance for all significant data used
+- Region, Studio, Year
 
-1. `README.md`
-    * A file called `README.md` at the root of the repository directory, written in Markdown; this is what is rendered when someone visits the link to your repository in the browser
-    * This file contains these sections:
-       * Overview
-       * Business Understanding
-          * Include stakeholder and key business questions
-       * Data Understanding and Analysis
-          * Source of data
-          * Description of data
-          * Three visualizations (the same visualizations presented in the slides and notebook)
-       * Conclusion
-          * Summary of conclusions including three relevant findings
+
+### Ingesting Data
+#### Creating DataFrames
+
+##### IMDB Movie Data Frame
+- First we import the IMDB SQL Data Base, then the BOX Movie Gross Data Base.
+- We then create a single data frame withonly the columns we want from each of the data bases combining them
+
+### Visuals
+#### Movie Length Revenues:
+![alt text](http://url/to/img.png)
+
+#### Domestic Vs Foriegn Gross for Different Film Lengths:
+![alt text](http://url/to/img.png)
+
+#### Gross Revenue by Genre 
+![image](https://github.com/willmbennett/movie-analysis/assets/125604164/384d96b9-ff36-4350-b9db-0f47bd8a9bbb)
+
+### Business Conclusions
+
+#### One; 
+Have a longer movie runtime because long films have the highest grossing, a long film is again ideally over 120 minutes
+
+#### Two; 
+to have a successful movie you will want a good rating which improves your movies revenue
+
+#### Three; 
+Create a movie in a successful genre category ideally; Sci Fi, Adventure, Animation, Action or Fantasy as these are the highest grossing genres
+
+### Next Steps
+#### If we had more time for this project we would look into the;
+##### ROI:
+Return on investment, to determine if the cost of the movie isn’t worth the production or revenue 
+
+##### International: 
+All money values we had were in unknown currencies, we’d like to convert them all to USD so we could compare 
+
+##### Recency: 
+Our data was from 2010-2019 and the movie industry was affected by the COVID-19 pandemic, we’d like to investigate recent years as well to see if there have been any changes
+
+##### Launch date: 
+We compared movies from different years, however inflation and the amount of time a movie all have effects on box office sales
+
 
