@@ -48,6 +48,17 @@ In the folder `zippedData` are movie datasets from:
 
 
 
+
+### Ingesting Data
+#### Creating DataFrames
+
+##### IMDB Movie Data Frame
+- First we import the IMDB SQL Data Base, then the BOX Movie Gross Data Base.
+- We then create a single data frame withonly the columns we want from each of the data bases combining them
+
+
+
+
 ### Data Cleaning
 Our main focuses while cleaning will be;
 
@@ -75,14 +86,6 @@ Our main focuses while cleaning will be;
 - Drop and replace values that mean nothing based on significance for all significant data used
 - Region, Studio, Year
 
-
-
-### Ingesting Data
-#### Creating DataFrames
-
-##### IMDB Movie Data Frame
-- First we import the IMDB SQL Data Base, then the BOX Movie Gross Data Base.
-- We then create a single data frame withonly the columns we want from each of the data bases combining them
 
 
 
